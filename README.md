@@ -66,6 +66,6 @@ I build web applications end-to-end and teach programming — from frontend inte
 
 <div align="center">
 
-📫 Reach me on [Telegram](https://t.me/furigan4ik)
+📫 Reach me on [Telegram](https://t.me/freeddev)
 
 </div>
