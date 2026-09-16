@@ -16,7 +16,7 @@ I build web applications end-to-end and teach programming — from frontend inte
 
 - 🔭 Full Stack Developer working across frontend, backend, and database layers
 - 📊 Currently deepening my skills in **Python, Data Analysis, and Data Science**
-- 🧑‍🏫 Mentor — I teach Python, web development, and programming logic/algorithms, including to students aged 10–12
+- 🧑‍🏫 Mentor — I teach Python, web development, and programming logic/algorithms, including to students aged 10–50
 - 🛠 Client work: building and maintaining websites, integrating databases, and supporting full project lifecycles
 - 🌱 Always expanding my stack — currently exploring deeper into data-driven development
 
