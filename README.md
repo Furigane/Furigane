@@ -6,7 +6,7 @@
 
 I build web applications end-to-end and teach programming — from frontend interfaces to backend systems, databases, and now data analysis / data science workflows.
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/furigan4ik)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/freeddev)
 
 </div>
 
