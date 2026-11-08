@@ -1,12 +1,8 @@
 <div align="center">
 
-# Hi, I'm Egor 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Frigan&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%C2%B7%20Data%20Analyst%20%C2%B7%20Mentor&descSize=18&descAlignY=68" alt="header" />
 
-**Full Stack Developer · Data Analyst · Programming Mentor**
-
-I build web applications end-to-end and teach programming — from frontend interfaces to backend systems, databases, and now data analysis / data science workflows.
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/freeddev)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+web+apps+end-to-end;Teaching+Python+%26+Web+Development;Deep+diving+into+Data+Science;Backend+in+Python+%E2%80%94+current+focus)](https://github.com/Furigane)
 
 </div>
 
@@ -14,58 +10,95 @@ I build web applications end-to-end and teach programming — from frontend inte
 
 ## 👨‍💻 About Me
 
-- 🔭 Full Stack Developer working across frontend, backend, and database layers
-- 📊 Currently deepening my skills in **Python, Data Analysis, and Data Science**
-- 🧑‍🏫 Mentor — I teach Python, web development, and programming logic/algorithms, including to students aged 10–50
-- 🛠 Client work: building and maintaining websites, integrating databases, and supporting full project lifecycles
-- 🌱 Always expanding my stack — currently exploring deeper into data-driven development
+```ts
+const frigan = {
+    role: "Full Stack Developer",
+    currentFocus: ["Python Backend", "Data Analysis", "Data Science"],
+    teaching: ["Python", "Web Dev", "Algorithms & Logic"], // students aged 10–50
+    clients: ["websites", "database integration", "full project lifecycle"],
+    mindset: "Always building, always learning 🌱",
+};
+```
+
+- 🔭  Full Stack разработка: от frontend-интерфейсов до backend-систем и баз данных
+- 🐍  Сейчас учусь на **Python Backend** — API, серверная логика, работа с данными
+- 📊  Развиваюсь в **Data Analysis / Data Science** — Python, Pandas, NumPy
+- 🧑‍🏫  Ментор: преподаю Python, веб-разработку и алгоритмы студентам 10–50 лет
+- 🛠  Клиентская работа: сайты, интеграция БД, поддержка полного жизненного цикла проектов
 
 ---
 
 ## 🧰 Tech Stack
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+<div align="center">
 
-**Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+### 🗣 Languages
 
-**Backend & APIs**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,php&theme=dark" alt="languages" />
+</a>
 
-**Data & Databases**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+### ⚛️ Frontend
 
-**CMS & Tools**
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-1e1e1e?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind&theme=dark" alt="frontend" />
+</a>
+
+### 🔧 Backend & APIs
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi&theme=dark" alt="backend" />
+</a>
+
+### 🗄 Data & Databases
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,mysql,mongodb,postgres&theme=dark" alt="databases" />
+</a>
+
+### 🛠 Tools & Platforms
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,wordpress,figma,vscode,postman&theme=dark" alt="tools" />
+</a>
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Furigane&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Furigane&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Furigane&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub stats" />
+<img height="170" src="https://streak-stats.demolab.com?user=Furigane&hide_border=true&background=0D1117&ring=58A6FF&fire=FF8C42&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&maxStreakNum=C9D1D9" alt="GitHub streak" />
+
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furigane&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top languages" />
+
 </div>
 
 ---
 
+## 🐍 Contribution Snake
+
+<!-- добавь после подключения GitHub Action (см. заметку ниже) -->
+<!-- <img width="100%" src="https://raw.githubusercontent.com/Furigane/Furigane/output/github-contribution-grid-snake-dark.svg" alt="snake animation" /> -->
+
+---
+
+## 🤝 Let's Connect
+
 <div align="center">
 
-📫 Reach me on [Telegram](https://t.me/freeddev)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&logoSize=auto)](https://t.me/freeddev)
+[![GitHub](https://img.shields.io/badge/GitHub-Furigane-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Furigane)
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer" />
 
 </div>
